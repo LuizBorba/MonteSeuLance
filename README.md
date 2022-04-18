@@ -4,4 +4,4 @@
 
 ## Descrição do projeto ##
 
-### Ultilizando a biblioteca VueJS criamos uma plataforma de montagem de lanche ultilizando renderização condicional ###
+ Ultilizando a biblioteca VueJS criamos uma plataforma de montagem de lanche ultilizando renderização condicional 
