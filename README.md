@@ -1,6 +1,6 @@
 # Monte seu Lanche #
 
-![imagemExemplo](https://user-images.githubusercontent.com/55213032/163741269-4f829efb-2524-45d6-a747-eda3d0c6c92a.png) ![imgaemVazia](https://user-images.githubusercontent.com/55213032/163743353-5221d0ec-fcab-40b5-afe2-c07299a0c8da.png)
+![imagemExemplo](https://user-images.githubusercontent.com/55213032/163743626-c22fe8c4-c2d3-46ac-85f3-58a4c688d2ae.png)
 
 ## Descrição do projeto ##
 
